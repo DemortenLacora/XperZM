@@ -12,3 +12,4 @@ mvn archtype:generate -DgroupId*hu.bearmaster.tutorial -
 DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DinteractiveMode=false -
 DoutputDirectory=../
 
+Ez a commit egy gyors elöre lessz.
